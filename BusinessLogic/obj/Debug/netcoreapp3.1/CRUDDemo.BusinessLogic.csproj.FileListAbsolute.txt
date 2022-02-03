@@ -1,0 +1,14 @@
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\bin\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.deps.json
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\bin\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.dll
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\bin\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.pdb
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\bin\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.dll
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\bin\Debug\netcoreapp3.1\CRUDDemo.Entities.dll
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\bin\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.pdb
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\bin\Debug\netcoreapp3.1\CRUDDemo.Entities.pdb
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\obj\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\obj\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\obj\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.AssemblyInfo.cs
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\obj\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\obj\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.csproj.CopyComplete
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\obj\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.dll
+C:\Users\i-Verve\source\repos\CRUD_Demo\BusinessLogic\obj\Debug\netcoreapp3.1\CRUDDemo.BusinessLogic.pdb

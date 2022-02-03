@@ -1,0 +1,9 @@
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\bin\Debug\netcoreapp3.1\CRUDDemo.Entities.deps.json
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\bin\Debug\netcoreapp3.1\CRUDDemo.Entities.dll
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\bin\Debug\netcoreapp3.1\CRUDDemo.Entities.pdb
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\obj\Debug\netcoreapp3.1\CRUDDemo.Entities.csprojAssemblyReference.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\obj\Debug\netcoreapp3.1\CRUDDemo.Entities.AssemblyInfoInputs.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\obj\Debug\netcoreapp3.1\CRUDDemo.Entities.AssemblyInfo.cs
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\obj\Debug\netcoreapp3.1\CRUDDemo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\obj\Debug\netcoreapp3.1\CRUDDemo.Entities.dll
+C:\Users\i-Verve\source\repos\CRUD_Demo\Entities\obj\Debug\netcoreapp3.1\CRUDDemo.Entities.pdb

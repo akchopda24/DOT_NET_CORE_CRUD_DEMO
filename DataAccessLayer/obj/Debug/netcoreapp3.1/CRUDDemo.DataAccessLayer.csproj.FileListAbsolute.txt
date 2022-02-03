@@ -1,0 +1,12 @@
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\bin\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.deps.json
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\bin\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.runtimeconfig.json
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\bin\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\bin\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.dll
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\bin\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.pdb
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\obj\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\obj\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\obj\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.AssemblyInfo.cs
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\obj\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\obj\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.dll
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\obj\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.pdb
+C:\Users\i-Verve\source\repos\CRUD_Demo\DataAccessLayer\obj\Debug\netcoreapp3.1\CRUDDemo.DataAccessLayer.genruntimeconfig.cache
